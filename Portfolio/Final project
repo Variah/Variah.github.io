@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewpoint" content="width=device-width, intital-scale=1.0">
+        <title></title>
+         <link rel="stylesheet" href="contactStyle.css">
+    </head>
+    <body>
+        <meta charset="UTF-8">
+        <p>If you want to get in contract with us fill out the form and we'll get to you as soon as possible</p>
+        <nav> <a href="home.html">Home</a>
+        </nav>
+         <nav> <a href="About.html">About</a>
+        </nav>  
+        <nav> <a href="Protype.html">Protype</a>
+        </nav>   
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdb7rMjniNosMZTXHX8XLYplEDsi7uOXQg489ybEc0P_2l_7w/viewform?embedded=true" width="" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>"
+   </body>
+</html>
